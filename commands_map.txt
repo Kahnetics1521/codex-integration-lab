@@ -1,0 +1,4 @@
+hello_codex        -> "Hello. I’m awake. What do you need?"
+system_check       -> "All systems are running within acceptable parameters."
+scan_artifact      -> "This object emits high levels of unknown energy. Possibly cursed."
+fuel_status        -> "Fuel reserves are at eighty-nine percent. You’re good to go."
