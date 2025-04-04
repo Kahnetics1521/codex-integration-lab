@@ -1,6 +1,6 @@
 # 🧪 Dev Log: Baby Codex
 
----
+--- 
 
 ## 📅 April 3, 2025 — v0.1 Initialization Complete
 
