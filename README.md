@@ -47,6 +47,13 @@ This prototype allows you to trigger Codex voice responses using spoken commands
 
 ---
 
+### 🚧 Coming Soon (v0.2 ideas)
+- Dynamic responses (maybe randomize lines for each command)
+- Lore-based idle chatter
+- Better mic tuning / prefix matching
+- Trigger Codex via keybind or overlay interaction
+
+
 ## 🌱 Planned Expansions
 
 - Codex “mood” toggles (serious / sarcastic)
