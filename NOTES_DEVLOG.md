@@ -14,9 +14,7 @@
 ### 🔊 Codex in Action
 
 > “Hello... I'm awake. What do you need?”    🎧 [Listen to sample] [(samples/Codex Audio Samples)](https://github.com/Kahnetics1521/codex-integration-lab/blob/main/samples/Codex%20Voice%20Samples.mp3)
-                                                      - Right click and save mp3 file to hear audio samples of commands 
-
-
+                                          
 ### Goals
 - Add command branching (i.e. artifact scan, system check)
 - Customize speech pacing with SSML
