@@ -36,7 +36,7 @@
   - `/response_engine`
   - `/samples`
   - `/voiceattack_profile`
-- Introduced lore-driven devlog: [`LORE_DEVLOG.md`](./LORE_DEVLOG.md)
+- Introduced lore-driven devlog: [`LORE_DEVLOG.md`](LORE_DEVLOG)
 
 ---
 
