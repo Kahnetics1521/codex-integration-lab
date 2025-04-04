@@ -11,7 +11,7 @@ $responseMap = @{
     "system_check" = "All systems are running within acceptable parameters."
     "scan_artifact" = "This object emits high levels of unknown energy. Possibly cursed."
     "fuel_status" = "Fuel reserves are at eighty-nine percent. You’re good to go."
-    "hello_codex" = "Hello. I’m awake. What do you need?"
+    "hello_codex" = "hello_codex" = "Hello... I'm awake. What do you need?"
     "default" = "I'm not sure what you're asking for, but I'm listening."
 }
 
