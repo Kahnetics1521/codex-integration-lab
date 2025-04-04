@@ -5,7 +5,7 @@
 This project is part of my [Kahnetics Integration Lab](https://github.com/Kahnetics1521/codex-integration-lab).
 
 ---
-
+ 
 ## 💡 Project Overview
 
 This prototype allows you to trigger Codex voice responses using spoken commands.
