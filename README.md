@@ -1,4 +1,4 @@
-# Baby Codex (v0.1) – A Voice-Triggered AI Assistant Prototype
+# Baby Codex (v0.1) – A Voice-Triggered AI Assistant Prototype (.....IN PROGRESS)
 
 **Baby Codex** is a simple AI assistant prototype inspired by systems like FRIDAY from *Spider-Man* and J.A.R.V.I.S. from *Iron Man*. The goal: to simulate an AI-like voice interaction experience using everyday tools like VoiceAttack and Windows scripting.
 
