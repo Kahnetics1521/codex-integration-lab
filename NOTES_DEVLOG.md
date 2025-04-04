@@ -13,7 +13,7 @@
 
 ### 🔊 Codex in Action
 
-> “Hello... I'm awake. What do you need?”    🎧 [Listen to sample](samples/Codex Audio Samples)
+> “Hello... I'm awake. What do you need?”    🎧 [Listen to sample] (samples/Codex Audio Samples)
 
 
 ### Goals
