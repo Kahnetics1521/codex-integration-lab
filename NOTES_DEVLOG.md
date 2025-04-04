@@ -13,7 +13,7 @@
 
 ### 🔊 Codex in Action
 
-> “Hello... I'm awake. What do you need?”    🎧 [Listen to sample] (samples/Codex Audio Samples)
+> “Hello... I'm awake. What do you need?”    🎧 [Listen to sample] [(samples/Codex Audio Samples)](https://github.com/Kahnetics1521/codex-integration-lab/blob/main/samples/Codex%20Voice%20Samples.mp3)
 
 
 ### Goals
