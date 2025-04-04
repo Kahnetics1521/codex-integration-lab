@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/8b7c01b2-4a5d-4228-92af-116e3d6e0013)
 
 ### Known Issues
-- Voices sometimes glitch if punctuation is weird. 
+- Voices sometimes glitch if punctuation is weird.  
 - Want to add sound effects next 👀
 
 ### 🔊 Codex in Action
