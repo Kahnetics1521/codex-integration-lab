@@ -37,9 +37,10 @@ Shows command recognition and occasional unrecognized phrases (e.g. background n
 
 ![VoiceAttack logs](../assets/image.png)
 
+
 ---
 
-### 🎥 Demo: Baby Codex in Action
+### 🎥 Demo: Codex in Action
 
 Short video of VoiceAttack successfully triggering the Codex response script and TTS output:
 
