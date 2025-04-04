@@ -7,3 +7,4 @@ When I say: "Codex, system check"
                                         #GitHub Actions runs in the cloud, not on your Windows machine
                                         #Your PowerShell script relies on local system features like TTS (System.Speech.Synthesis)
                                         #The cloud runner doesn’t have a voice box 
+ 
