@@ -14,6 +14,7 @@ voiceattack_profile/
 │   └── va_log_output.png            # Screenshot of command recognition
 
 
+
 # Current Commands:
 - `hello codex` → “Hello. I'm awake. What do you need?”
 - `system check` → “All systems are running within acceptable parameters.”
