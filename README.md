@@ -1,3 +1,7 @@
+# codex-integration-lab
+A collection of cursed artifacts, tech experiments, and integration tests for fun and function
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # VoiceAttack + Codex: Voice-Triggered AI Response System
 
 A real-time voice interaction setup using VoiceAttack to trigger Codex, a reactive AI assistant, to speak or display responses on stream. This project is part of the Kahnetics Integration Lab — where storytelling meets tech.
