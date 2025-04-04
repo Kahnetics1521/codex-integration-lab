@@ -1,0 +1,3 @@
+When I say: "Codex, system check"
+→ Run Application: `powershell.exe`
+→ With Arguments: `-File "C:\Path\To\codex_response.ps1" -command system_check`
