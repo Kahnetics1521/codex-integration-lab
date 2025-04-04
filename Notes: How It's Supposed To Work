@@ -1,3 +1,9 @@
 When I say: "Codex, system check"
 → Run Application: `powershell.exe`
 → With Arguments: `-File "C:\Path\To\codex_response.ps1" -command system_check`
+
+
+#Reminder to Self: Can't run the ps TTS script directly in Github; Github actions can automate workflow but it won't work for this use case because:
+                                        #GitHub Actions runs in the cloud, not on your Windows machine
+                                        #Your PowerShell script relies on local system features like TTS (System.Speech.Synthesis)
+                                        #The cloud runner doesn’t have a voice box 
