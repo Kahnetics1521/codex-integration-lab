@@ -25,8 +25,25 @@
 ---
 
 ### 🔊 Codex in Action
+
 > *“Hello... I'm awake. What do you need?”*  
-🎧 [Listen to sample](https://github.com/Kahnetics1521/codex-integration-lab/blob/main/samples/Codex%20Voice%20Samples.mp3)
+🎧 [Listen to Codex voice sample](../assets/Codex%20Voice%20Samples.mp3)
+
+---
+
+### 🖼️ Screenshot: VoiceAttack Logs
+
+Shows command recognition and occasional unrecognized phrases (e.g. background noise, partial phrases) during real-time voice input:
+
+![VoiceAttack logs](../assets/image.png)
+
+---
+
+### 🎥 Demo: Baby Codex in Action
+
+Short video of VoiceAttack successfully triggering the Codex response script and TTS output:
+
+[▶️ Watch the video](../assets/Short%20Demo%20of%20Codex%20.mp4)
 
 ---
 
