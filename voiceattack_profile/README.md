@@ -1,6 +1,18 @@
-# 🗣️ Codex VoiceAttack Profile
+# 🎙️ VoiceAttack x Codex Profile
 
-This folder contains setup documentation and screenshots for configuring Baby Codex inside VoiceAttack.
+This folder contains assets used to configure and demonstrate Baby Codex as a real-time voice-activated assistant using [VoiceAttack](https://voiceattack.com/).
+
+---
+
+## 📂 Folder Structure
+
+```plaintext
+voiceattack_profile/
+├── Demo/
+│   ├── codex_voice_sample.mp3       # Codex's voice TTS sample
+│   ├── short_demo_codex.mp4         # Demo of Codex responding in real-time
+│   └── va_log_output.png            # Screenshot of command recognition
+
 
 ## Current Commands:
 - `hello codex` → “Hello. I'm awake. What do you need?”
@@ -13,5 +25,6 @@ This folder contains setup documentation and screenshots for configuring Baby Co
 - Requires PowerShell execution policy to be `RemoteSigned` or higher
 - Audio is generated via `System.Speech.Synthesis` on Windows
 
-## Coming Soon
-- Exported `.vap` file for full Codex profile import
+🧪 How it Works
+Each command in VoiceAttack launches a PowerShell script that uses TTS to speak pre-defined responses based on your voice input.
+
